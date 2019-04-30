@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace test
 {
-    class VIP
+    class VIP  //这里我来写   莫要管
     {
 
 
