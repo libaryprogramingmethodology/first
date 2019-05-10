@@ -1,0 +1,10 @@
+D:\workspace\gita\first\test\bin\Debug\test.exe.config
+D:\workspace\gita\first\test\obj\Debug\test.Form1.resources
+D:\workspace\gita\first\test\obj\Debug\test.Properties.Resources.resources
+D:\workspace\gita\first\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\workspace\gita\first\test\bin\Debug\test.exe
+D:\workspace\gita\first\test\bin\Debug\test.pdb
+D:\workspace\gita\first\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\workspace\gita\first\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\workspace\gita\first\test\obj\Debug\test.exe
+D:\workspace\gita\first\test\obj\Debug\test.pdb
